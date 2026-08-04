@@ -1,0 +1,12 @@
+numpy==1.19.5
+mmcv-full==1.4.0
+mmdet==2.14.0
+mmsegmentation==0.14.1
+nuscenes-devkit==1.1.9
+opencv-python
+pycocotools
+pyquaternion
+scikit-image
+scipy
+shapely
+tensorboard
